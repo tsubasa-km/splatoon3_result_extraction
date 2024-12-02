@@ -1,0 +1,125 @@
+{
+    "areas": [
+        {
+            "name": "rule",
+            "topleft": [
+                156,
+                56
+            ],
+            "bottomright": [
+                598,
+                125
+            ]
+        },
+        {
+            "name": "stage",
+            "topleft": [
+                521,
+                130
+            ],
+            "bottomright": [
+                717,
+                173
+            ]
+        },
+        {
+            "name": "wining_team_weapons",
+            "topleft": [
+                32,
+                348
+            ],
+            "bottomright": [
+                96,
+                705
+            ]
+        },
+        {
+            "name": "losing_team_weapons",
+            "topleft": [
+                29,
+                792
+            ],
+            "bottomright": [
+                97,
+                1158
+            ]
+        },
+        {
+            "name": "wining_team_results",
+            "topleft": [
+                428,
+                336
+            ],
+            "bottomright": [
+                698,
+                722
+            ]
+        },
+        {
+            "name": "losing_team_results",
+            "topleft": [
+                434,
+                784
+            ],
+            "bottomright": [
+                705,
+                1166
+            ]
+        },
+        {
+            "name": "current_x_power",
+            "topleft": [
+                313,
+                1182
+            ],
+            "bottomright": [
+                482,
+                1243
+            ]
+        },
+        {
+            "name": "date",
+            "topleft": [
+                247,
+                1238
+            ],
+            "bottomright": [
+                466,
+                1276
+            ]
+        },
+        {
+            "name": "your_team_count",
+            "topleft": [
+                8,
+                229
+            ],
+            "bottomright": [
+                132,
+                283
+            ]
+        },
+        {
+            "name": "enemy_team_count",
+            "topleft": [
+                571,
+                229
+            ],
+            "bottomright": [
+                715,
+                281
+            ]
+        },
+        {
+            "name": "is_win",
+            "topleft": [
+                205,
+                164
+            ],
+            "bottomright": [
+                514,
+                226
+            ]
+        }
+    ]
+}
